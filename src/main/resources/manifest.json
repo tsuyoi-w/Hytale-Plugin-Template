@@ -1,0 +1,18 @@
+{
+  "Group": "fr.tsuyoi",
+  "Name": "Template",
+  "Version": "1.0.0",
+  "Description": "Tempalte Plugin Hytale",
+  "Authors": [
+    {
+      "Name": "Tsuyoi"
+    }
+  ],
+  "Website": "",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "Main": "fr.tsuyoi.Main",
+  "IncludesAssetPack": true
+}
